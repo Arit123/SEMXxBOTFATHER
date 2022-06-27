@@ -4,7 +4,7 @@ from SemxXSpam import CMD_HNDLR as hl
     
 HELP_PIC = "https://te.legra.ph/file/91d82bf74b7a75468f5ef.jpg"
 
-RyanHelp = "★ 𝙎𝙚𝙢𝙭𝙓𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@RUDRA_HUN_VAII"
+RyanHelp = "★ ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@RUDRA_HUN_VAII"
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -187,7 +187,7 @@ async def help_spam(event):
             ) 
    else:
         Alert = (
-                "Noob !! Make Your Own Semx X Spam Bots !! @rudra_hun_vaii"
+                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ Bots !! @rudra_hun_vaii"
             )
         await event.answer(Alert, cache_time=0, alert=True)
                  
@@ -214,7 +214,7 @@ async def help_raid(event):
             )  
      else:
         Alert = (
-                "Noob !! Make Your Own Semx X Spam Bots !! @rudra_hun_vaii"
+                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ !! @rudra_hun_vaii"
             )
         await event.answer(Alert, cache_time=0, alert=True)
        
@@ -242,6 +242,6 @@ async def help_extra(event):
             )
    else:
         Alert = (
-                "Noob !! Make Your Own Semx X Spam Bots !! @rudra_hun_vaii"
+                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ Bots !! @rudra_hun_vaii"
             )
         await event.answer(Alert, cache_time=0, alert=True)
