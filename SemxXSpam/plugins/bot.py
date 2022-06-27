@@ -19,7 +19,7 @@ from datetime import datetime
 @MK8.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK9.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-async def ping(e):
+async def fuck(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
         event = await e.reply("𝙋𝙤𝙣𝙜!", parse_mode=None, link_preview=None )
