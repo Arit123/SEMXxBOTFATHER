@@ -2,7 +2,7 @@ from SemxXSpam import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, SUDO_US
 from telethon import events, Button
 from SemxXSpam import CMD_HNDLR as hl
     
-HELP_PIC = "https://te.legra.ph/file/91d82bf74b7a75468f5ef.jpg"
+HELP_PIC = "https://te.legra.ph/file/bff53a1e9745070ffb08d.jpg"
 
 RyanHelp = "★ ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@Manish_rajput_R"
 
