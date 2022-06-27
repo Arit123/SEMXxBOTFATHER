@@ -4,7 +4,7 @@ from SemxXSpam import CMD_HNDLR as hl
     
 HELP_PIC = "https://te.legra.ph/file/91d82bf74b7a75468f5ef.jpg"
 
-RyanHelp = "★ ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@RUDRA_HUN_VAII"
+RyanHelp = "★ ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@Manish_rajput_R"
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -65,7 +65,7 @@ Command :
 **PackSpam :** Sticker Pack Spam
 1) {hl}packspam <reply to any sticker>
 
-**© @rudra_hun_vaii**
+**© @Manish_rajput_R**
 """
 
                  
@@ -94,7 +94,7 @@ Command :
 2) {hl}dreplyraid <username>
 
 
-**© @rudra_hun_vaii**
+**© @Manish_rajput_R**
 """
 
 spam_msg = f"""
@@ -123,7 +123,7 @@ Command :
 Command :
 1) {hl}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-** © @rudra_hun_vaii**
+** © @Manish_rajput_R**
 """                     
            
            
@@ -159,7 +159,7 @@ async def helpback(event):
         )           
    else:
         Alert = (
-                "Noob !! Make Your Own Semc X Spam Bots !! @rudra_hun_vaii"
+                "Noob !! Make Your ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ Bots !! @Manish_rajput_R "
             )
         await event.answer(Alert, cache_time=0, alert=True)
       
@@ -187,7 +187,7 @@ async def help_spam(event):
             ) 
    else:
         Alert = (
-                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ Bots !! @rudra_hun_vaii"
+                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ Bots !! @Manish_rajput_R"
             )
         await event.answer(Alert, cache_time=0, alert=True)
                  
@@ -214,7 +214,7 @@ async def help_raid(event):
             )  
      else:
         Alert = (
-                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ !! @rudra_hun_vaii"
+                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ !! @Manish_rajput_R"
             )
         await event.answer(Alert, cache_time=0, alert=True)
        
@@ -242,6 +242,6 @@ async def help_extra(event):
             )
    else:
         Alert = (
-                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ Bots !! @rudra_hun_vaii"
+                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ Bots !! @Manish_rajput_R"
             )
         await event.answer(Alert, cache_time=0, alert=True)
