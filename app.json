@@ -1,7 +1,7 @@
 {
     "name": "MKXSPAM HERE.",
     "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-    "logo": "https://te.legra.ph/file/a2beccc714b5f011dd42d.jpg",
+    "logo": "https://te.legra.ph/file/bff53a1e9745070ffb08d.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,7 +9,7 @@
         "MKXSpam",
         "SpamBots"
     ],
-    "repository": "https://github.com/ERR0rMK/PythonBot13",
+    "repository": "https://github.com/Arit123/PythonBot13",
     "env": {
       "ALIVE_PIC": {
         "description": "Your alive pic or video",
@@ -83,7 +83,7 @@
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "5314135852",
             "required": false
         },
       "OWNER_ID": {
