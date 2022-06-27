@@ -31,10 +31,10 @@ async def help(event):
             Button.inline("⚡ Extra ⚡", data="extra"),
            ],
            [    
-            Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/TheMKHackerX131")
+            Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/omkara0112")
            ],
            [
-           Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/HACKERxSPAM")
+           Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/crazyfriends_01")
            ],
            ],
            )              
