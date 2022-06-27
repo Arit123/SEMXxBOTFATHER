@@ -4,11 +4,11 @@ from .. import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, OWNER_ID
 from SemxXSpam.plugins.help import *
 
 
-RYAN_IMG = "https://te.legra.ph/file/91d82bf74b7a75468f5ef.jpg"
+RYAN_IMG = "https://te.legra.ph/file/bff53a1e9745070ffb08d.jpg"
 
 Ryan_Button = [
         [
-        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/TheMKHackerX131")
+        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/omkara0112")
         ],
         [
         Button.inline("⚡ ᴄᴏᴍᴍᴀɴᴅs ⚡", data="help_back")
@@ -17,8 +17,8 @@ Ryan_Button = [
                
 RyanX_Button = [
         [
-        Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/TheMKHackerX131"),
-        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/HACKERxSPAM")
+        Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/omkara0112"),
+        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/crazyfriends_01")
         ],
         [
         Button.url("🔥 ʀᴇᴘᴏ 🔥", "https://github.com/ERR0rMK/SEMXxBOTFATHER")
