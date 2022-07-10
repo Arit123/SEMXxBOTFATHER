@@ -25,7 +25,7 @@
 
 <<h3 align="center">
 
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「 ᴄʀᴇᴅɪᴛs 」─
 
 </h3>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
 
-<a href="@Manish_rajput_R"><img src="https://img.shields.io/badge/%20Anonymous-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="@Manish_rajput_R"><img src="https://img.shields.io/badge/%20Manish-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
