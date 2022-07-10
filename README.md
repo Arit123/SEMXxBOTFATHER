@@ -23,11 +23,27 @@
 # Owner And Credit
 
 
-<details>
-<summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
-<br>
+<<h3 align="center">
 
-</details>
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+
+</h3>
+
+<p align="center">
+
+<a href="https://instagram.com/_the_manish_rajput_?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/-Instagram%20-black.svg?style=for-the-badge&logo=Instagram"></a>
+
+</p>
+
+<p align="center">
+
+<a href="@Manish_rajput_R"><img src="https://img.shields.io/badge/%20Anonymous-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+</p>
+
+
+
+
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
