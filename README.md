@@ -35,11 +35,11 @@
 
 </p>
 
-<p align="center">
 
-<a href="@Manish_rajput_R"><img src="https://img.shields.io/badge/%20Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-</p>
+
+
+
 
 
 
