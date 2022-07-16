@@ -38,6 +38,8 @@
 
 
 
+━━━━━━━━━━━━━━━━━━━━
+
 
 
 
@@ -59,7 +61,7 @@
 
 <p align="center">
 
-<a href="https://telegram.me/anonymous_was_bot"><img src="https://img.shields.io/badge/%20Anonymous-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/crazyfriends_01"><img src="https://img.shields.io/badge/%20Anonymous-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
