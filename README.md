@@ -61,7 +61,7 @@
 
 <p align="center">
 
-<a href="https://t.me/crazyfriends_01"><img src="https://img.shields.io/badge/%20Anonymous-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/crazyfriends_01"><img src="https://img.shields.io/badge/%20🕷😬𝐂𝐑𝐀𝐙𝐘 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 😬🕷-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
