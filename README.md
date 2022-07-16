@@ -53,7 +53,7 @@
 
 <p align="center">
 
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/omkara0112"><img src="https://img.shields.io/badge/-%20🇲🅐 𝖘𝖙𝖎 ⚘⚘ 𝕜𝕚 ࿐ ŽIŇ🅓🄶🄸🔱-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
