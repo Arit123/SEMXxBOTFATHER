@@ -824,6 +824,6 @@ CRAID = [
 "Kitna dard hai dil mai dikhaya nahi jata, Gambhir hai kissa sunaya nahi jata, Ek bar ji bhar ke dekh lo is chehare ko, Kyonki bar bar 'KAFAN' uthaya nahi jata",
 
 "Mujh Ko Rula Kar Vo Bhi Roya To Hoga Muh Aansuo Se Usne Bhi Dhoya To Hoga Agar Na Kiya Hai Hasil Kuch Humne Pyar Mein Kuch Na Kuch Usne Bhi Khoya To Hoga.",
-   ] 
+]
     
 
