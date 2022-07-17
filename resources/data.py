@@ -699,61 +699,131 @@ SRAID = [
 
 
 CRAID = [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
+   
+
+"!! Jaao, Dhond Lo Hum Se Ziyada Chahne Wala Mil Jaye To Khush Rehna ,Na Mile To Hum Phir Bhi Tumhare Hai...!!
+
+"It hurts when you re being ignored by the person whose attention is the only thing you want in the world
+
+"Usne Kaha Bhool Jao Mujhe Hum ne bi Rotay Hoye Keh Diya Kon Ho tum
+
+"Life is too short Dont waste it reading my status
+
+"Yu to duniya me wafa karne walo ki kami nahi hai par sala pyar bhi usi se hota hai jisko kadar na ho er kasz
+
+"Tum se mahobbat teri aukat se jyada ki thi Ab baat nafrat ki hai soch tera kya hoga..
+
+"Maana ki mujhe pyr krna nhi aata per tu bta ki tujhe dil todna kisne sikhaya
+
+"Phir se tere mehfil mein chala aya hu....... Andaz wahi h bs alfaz naye laya hu.....
+
+"Bhul to jaau tujhe Par mere paas rahega kya
+
+"Zakham de kar na puch dard ki shiddat.... Dard to phir dard hai, kam kya, zeyaada kya
+
+"asan nahi use bhula panna. kyuki . raggo se khun to marne ke bad hi rukta hai
+
+"Kuch aise haadse bhi zindagi me hote hain ke insaan bach to jata ha magar zinda nhi rehta
+
+"pyar me ab yeh shamil karna hai, vo sach kahe na kahe, hume atbaar karna hain
+
+"Tum Mujhe Yaad Ab Nahin Aatey Mujhe Tum Yaad Ho Gay Ho
+
+"Puchcha jo humne kisi or k hone lage ho kya, woh muskura ke bole pahele tumhare the kya.!
+
+"Agar Teri Khamoshi Teri Majboori Hai To Phir Rehne De Ishq Bhi Konsa Zaruri Hai
+
+"Aey Dil Thori Sii Himat Kr Na Yar"....! "Dono Mil Kr Usay Bhool Jaty Hain...
+
+"Sangeet sunkar gyan nahi milta ,
+
+"Mandir jakar bhagwan nahi milta ! Patthar toh log isliye pujte hain , Kyonki....... Vishwaas ke layak insan nahi milta !!
+
+"Mere Alfazo Ko sunne Wale To Hazaro Hai Par Meri Khamoshi Ko Samjhne Wala Ek Bhi Nahi
+
+"Kuch log mujhe apna kaha kartey they Sach kahun Woh sirf kaha hi kartey they
+
+"When you held me you said forever Now that you re gone I know you meant neve
+
+"Usay bahut Chaha Phir Bhi Wo Apna Na Bana Na Jane Wo Konsi MUHABBAT Thi jo Hum Use de Na sake
+
+"Dard ki daastaan abhi baaki hai Mohabbat ka imtehaan abhi baaki hai Dil kare tou phir milne aa jana Mera dil hi toota hai jaan abhi b baaki hai
+
+"Kya Aisa Nahi Ho Sakta ki HUm Pyar Mangein Aur Tum Gale se laga kar kaho aur kuch
+
+"Suna Hai Ishq Ka Shok Nahi Hai Tumhain Magar Barbad Tum Kamal Ka Karty Ho
+
+"jii karta hai tumhe es kadar benakab karu. ke apni wafa ke charche karna chor donge
+
+"Aankho Se Padhne Wale Kabhi Nahi Samajh Sakte,Likhne Wale Kaise Likhte Hai...!!!!
+
+"Meri Pagal Si Mohabbat Tumhe Bohat Yaad Ayegi Jab Hansane Wale Kam Aur Rulane Wale Zayada Honge
+
+"Uthi uski doli to tufan la dunga. . . Mli na muje wo to Duniya jala dunga. . Dhoka jo diya usne To To kya Smart dikta hu yaar dusri pta luga😄😄😄
+
+"Uski Mohabbat Ka Silsila Bhi Kya Ajeeb Silsila Tha, Apna Bhi Nahi Banaya, Aur Kisi Ka Hone Bhi Nahi Diya…..!!
+
+"Everything is Pre-Written But with Prayers it can be Re-Written
+
+"Bachpan Key Din Bhi Kitny Achhe Hotey They Tab Dil Nahi Bas Khiloney Tuta Krte They Ab Ek Aansoo Girey Toh Saha Nhi Jaata, Bachpan Mein Toh Dil Bhur Key Royaa Krte They…
+
+"Ab Safar Zindagi ka Khatam Hi Hua SmjhO Uski BatO n se judai ki Mehak Ati hai
+
+"Kisi ko chaho to itna chaho ki.... Ki wo kis or ko chahane ki soch bi na sake
+
+"Kash K Aisa Bhi Hua Hota Meri Kami Ne Tujhe B Udaas Kiya Hota Lot Aate Ek Pal Me Tere Paas Tere Labo Ne Mera Naam To Liya Hota
+
+"Har Dhadkan mein ek Raz hota hain,
+
+"Har baat ko batane ka ek Andaz hota hai, Jab tak Thokar na lage Bewafai ki, Har kisi ko apne Pyar par Naz hota hai…
+
+"Zindagi bhar udaas rehna hai.. Sochta hun to Muskura deta hu..,,
+
+"Ya mere khuda kuch to reham kr Ya to use dil se nikal de ya uske dil me panaah de
+
+"Kitaab meri....qalam mera or soch bhi meri.. Phir jo likhe hain maine wo khayal q tere hain...!!!
+
+"Milne ka Vaada Un ki juban se to nikal gya Poochi Jaga to hans k kaha KHWAAB me
+
+"jiwan to jiwan hai, jiwan ki na koi preet, kahu mein ek baat, jiwan ki na haar hai, jiwan ki na jeet.
+
+"Aankhe Aksar Woh Baatein Kah Jaati Hain Jo Baatein Hum Jubaa Par La Nahi Paate
+
+"Mujhe Bhi Sikha Do Bhool Jane Ka Huner Mujh Se Raaton Ko Uth Uth Kar Roya Nahi Jata
+
+"kar li na tasalli tumne dil tod kar mera maine bhi kaha tha kuch nahi hai iss mein tumhare siwa
+
+"Chale jayenge ek din tujhe tere haalpar chorkar Phir mohabbat kya hoti hai tujhe khud pata chal jaayega er kasz
+
+"Kisi Din Hath Dho Betho Ge Hum Se Tumhe Chaska Bohat Hai Be Rukhi Ka
+
+"ISHQ mein Mera tootna to Lazim Hi Tha Kaanch ka DIL l Tha aur Mohabbat patthar se Ki
+
+"Tum NaY SamJha Hee Nahi Aur Na SamJhna Chaha Hum ChahTe Bhi Kya The Tum SeY Tumhare SiVa
+
+"Chah kar bhi nahi puch sakte haal unka kahi wo ye na kehde ki ye hak thume kisne diya er kasz
+
+"Agar Rishte Sache Ho To Unko Sambalna Nahi Padta Aur Jin Rishto Ko Sambhalna Pade Wo Sache Nahi Hote
+
+"Aey ishq kaisa insaaf hai tera, khata lamhon ki aur saza sadiyon ki..!
+
+"Unko Jana Tha Wo Chle Gye
+
+"Hum ko Khona Tha Hum ne Kho Diya Fark sirf Itna Tha Us ne Zindgi Ka Ik Pal Khoya Hum ne Ek Pal Mai Puri Zindgi Kho di
+
+"Ajb Ye Zindgi Hy Na Esy Jeena Hi Parta
+
+"Hum Nay Us Raat Bhi Tumhe Manga Tha Log Jis Raat Bukhshish Ki Dua Mangty Hein
+
+"Abhi Bhi Baaki Hai Kuch Ummiden Unse Jo Meri Saari Ummiden Tod Kar Chale Gaye
+
+"Nikley jab teri aankhon se aanshu 'MAA' Dil karta hai dunia jala doon
+
+"Qadar karlo unki jo tumse bina matlab ki chaahat karte hain Duniya mein khayal rakhne wale kam aur takleef dene wale zyada hote hain
+
+"Kitna dard hai dil mai dikhaya nahi jata, Gambhir hai kissa sunaya nahi jata, Ek bar ji bhar ke dekh lo is chehare ko, Kyonki bar bar "KAFAN" uthaya nahi jata
+
+"Mujh Ko Rula Kar Vo Bhi Roya To Hoga Muh Aansuo Se Usne Bhi Dhoya To Hoga Agar Na Kiya Hai Hasil Kuch Humne Pyar Mein Kuch Na Kuch Usne Bhi Khoya To Hoga.
+    
+    
 ]
