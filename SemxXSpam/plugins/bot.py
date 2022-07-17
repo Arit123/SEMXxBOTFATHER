@@ -25,7 +25,7 @@ async def fuck(e):
         event = await e.reply("𝙋𝙤𝙣𝙜!", parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ 🤖!\n✘`{ms}` ms\n 😈𝙍𝙀𝘼𝘿𝙔 𝙁𝙊𝙍 𝙎𝙀𝙈𝙓🤧")
+        await event.edit(f"🎉 ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ 🤖!\n✘`{ms}` ms\n 𝕁𝕆 Ⱨ𝕌𝕂𝕌𝕄 𝕄𝔼ℝ𝔼 𝔸𝔸𝕂𝔸😈🔥")
         
         
 
