@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://instagram.com/_the_manish_rajput_?igshid=YmMyMTA2M2Y="><img src="https://te.legra.ph/file/bff53a1e9745070ffb08d.jpg" width="400"></a></p>
+<p align="center"><a href="https://instagram.com/_the_manish_rajput_?igshid=YmMyMTA2M2Y="><img src="https://te.legra.ph/file/4931a0eb8fdd2620bc2c7.mp4" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS OP SEMX SPAM BOT, That is the greatest pleasure we have !
