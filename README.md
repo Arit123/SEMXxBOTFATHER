@@ -6,7 +6,7 @@
 
 
 > ⭐️ Thanks to everyone for using THIS OP XERVIS SPAM BOT, That is the greatest pleasure we have 
- 
+  👑 powered by MANISH - GOD OF MIND 
     
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
