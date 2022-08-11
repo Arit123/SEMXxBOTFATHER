@@ -2,9 +2,9 @@ from SemxXSpam import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, SUDO_US
 from telethon import events, Button
 from SemxXSpam import CMD_HNDLR as hl
     
-HELP_PIC = "https://te.legra.ph/file/bff53a1e9745070ffb08d.jpg"
+HELP_PIC = "https://te.legra.ph/file/01f8b516de2d8458e536e.jpg"
 
-RyanHelp = "★ ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@Manish_rajput_R"
+RyanHelp = "★ 🇪𝐋𝐄𝐕𝐄𝐍 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@Manish_rajput_R"
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -159,7 +159,7 @@ async def helpback(event):
         )           
    else:
         Alert = (
-                "Noob !! Make Your ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ Bots !! @Manish_rajput_R "
+                "Noob !! Make Your 🇪𝐋𝐄𝐕𝐄𝐍 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓 Bots !! @Manish_rajput_R "
             )
         await event.answer(Alert, cache_time=0, alert=True)
       
@@ -187,7 +187,7 @@ async def help_spam(event):
             ) 
    else:
         Alert = (
-                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ Bots !! @Manish_rajput_R"
+                "Noob !! Make Your Own 🇪𝐋𝐄𝐕𝐄𝐍 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓 Bots !! @Manish_rajput_R"
             )
         await event.answer(Alert, cache_time=0, alert=True)
                  
@@ -214,7 +214,7 @@ async def help_raid(event):
             )  
      else:
         Alert = (
-                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ !! @Manish_rajput_R"
+                "Noob !! Make Your Own 🇪𝐋𝐄𝐕𝐄𝐍 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓 !! @Manish_rajput_R"
             )
         await event.answer(Alert, cache_time=0, alert=True)
        
@@ -242,6 +242,6 @@ async def help_extra(event):
             )
    else:
         Alert = (
-                "Noob !! Make Your Own ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ Bots !! @Manish_rajput_R"
+                "Noob !! Make Your Own 🇪𝐋𝐄𝐕𝐄𝐍 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓 Bots !! @Manish_rajput_R"
             )
         await event.answer(Alert, cache_time=0, alert=True)
