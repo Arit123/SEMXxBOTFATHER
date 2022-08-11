@@ -4,7 +4,7 @@ from .. import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, OWNER_ID
 from SemxXSpam.plugins.help import *
 
 
-RYAN_IMG = "https://te.legra.ph/file/bff53a1e9745070ffb08d.jpg"
+RYAN_IMG = "https://te.legra.ph/file/01f8b516de2d8458e536e.jpg"
 
 Ryan_Button = [
         [
