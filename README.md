@@ -5,7 +5,7 @@
 <p align="center"><a href="https://instagram.com/_the_manish_rajput_?igshid=YmMyMTA2M2Y="><img src="https://te.legra.ph/file/01f8b516de2d8458e536e.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS OP XERVIS SPAM BOT, That is the greatest pleasure we have 
+> ⭐️ Thanks to everyone for using THIS OP ELEVEN SPAM BOT, That is the greatest pleasure we have 
   👑 powered by MANISH - GOD OF MIND 
     
 
