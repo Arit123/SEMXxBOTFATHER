@@ -9,23 +9,23 @@ from telethon import events
 from datetime import datetime
 
     
-@MK1.on(events.NewMessage(incoming=True, pattern=r"\%sjanu(?: |$)(.*)" % hl))
+@MK1.on(events.NewMessage(incoming=True, pattern=r"\%seleven(?: |$)(.*)" % hl))
 @MK2.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK3.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK4.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK5.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK6.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK7.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@MK8.on(events.NewMessage(incoming=True, pattern=r"\%slove(?: |$)(.*)" % hl))
+@MK8.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK9.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 async def fuck(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        event = await e.reply("𝙋𝙤𝙣𝙜!", parse_mode=None, link_preview=None )
+        event = await e.reply("🇪𝐋𝐄𝐕𝐄𝐍!", parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️ 🤖!\n✘`{ms}` ms\n 𝕁𝕆 Ⱨ𝕌𝕂𝕌𝕄 𝕄𝔼ℝ𝔼 𝔸𝔸𝕂𝔸😈🔥")
+        await event.edit(f"🇪𝐋𝐄𝐕𝐄𝐍 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓!\n✘`{ms}` ms\n HELLO BOSS I'M 🇪𝐋𝐄𝐕𝐄𝐍")
         
         
 
