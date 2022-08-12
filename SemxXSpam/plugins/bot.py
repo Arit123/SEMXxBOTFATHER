@@ -22,10 +22,10 @@ from datetime import datetime
 async def fuck(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        event = await e.reply("🇪𝐋𝐄𝐕𝐄𝐍!", parse_mode=None, link_preview=None )
+        event = await e.reply("🇲𝐔𝐍𝐍𝐀!", parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🇪𝐋𝐄𝐕𝐄𝐍 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓!\n✘`{ms}` ms\n HELLO MANISH I'M 🇪𝐋𝐄𝐕𝐄𝐍")
+        await event.edit(f"🇲𝐔𝐍𝐍𝐀 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓!\n✘`{ms}` ms\n HELLO BOSS I'M 🇲𝐔𝐍𝐍𝐀")
         
         
 
@@ -41,7 +41,7 @@ async def fuck(e):
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "**Restarting Your ⚔️🇽𝐄𝐑𝐕𝐈𝐒 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️...**\nPlease Wait For Few Seconds."
+        text = "**Restarting Your ⚔️🇲𝐔𝐍𝐍𝐀 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️...**\nPlease Wait For Few Seconds."
         await e.reply(text)
         try:
             await MK1.disconnect()
