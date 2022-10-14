@@ -25,7 +25,7 @@ async def fuck(e):
         event = await e.reply("🇲𝐀𝐗!", parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🇲𝐀𝐗 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓!\n✘`{ms}` ms\n HELLO BHAIYA JI HAM  🇲𝐔𝐍𝐍𝐀")
+        await event.edit(f"🇲𝐀𝐗 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓!\n✘`{ms}` ms\n HELLO BHAIYA JI HAM  🇲𝐀𝐗")
         
         
 
