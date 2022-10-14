@@ -9,23 +9,23 @@ from telethon import events
 from datetime import datetime
 
     
-@MK1.on(events.NewMessage(incoming=True, pattern=r"\%smunnabhaiya(?: |$)(.*)" % hl))
-@MK2.on(events.NewMessage(incoming=True, pattern=r"\%smunnabhaiya(?: |$)(.*)" % hl))
-@MK3.on(events.NewMessage(incoming=True, pattern=r"\%smunnabhaiya(?: |$)(.*)" % hl))
-@MK4.on(events.NewMessage(incoming=True, pattern=r"\%smunnabhaiya(?: |$)(.*)" % hl))
-@MK5.on(events.NewMessage(incoming=True, pattern=r"\%smunnabhaiya(?: |$)(.*)" % hl))
-@MK6.on(events.NewMessage(incoming=True, pattern=r"\%smunnabhaiya(?: |$)(.*)" % hl))
-@MK7.on(events.NewMessage(incoming=True, pattern=r"\%smunnabhaiya(?: |$)(.*)" % hl))
-@MK8.on(events.NewMessage(incoming=True, pattern=r"\%smunnabhaiya(?: |$)(.*)" % hl))
-@MK9.on(events.NewMessage(incoming=True, pattern=r"\%smunnabhaiya(?: |$)(.*)" % hl))
-@MK10.on(events.NewMessage(incoming=True, pattern=r"\%smunnabhaiya(?: |$)(.*)" % hl))
+@MK1.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
+@MK2.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
+@MK3.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
+@MK4.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
+@MK5.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
+@MK6.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
+@MK7.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
+@MK8.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
+@MK9.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
+@MK10.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
 async def fuck(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        event = await e.reply("🇲𝐔𝐍𝐍𝐀!", parse_mode=None, link_preview=None )
+        event = await e.reply("🇲𝐀𝐗!", parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🇲𝐔𝐍𝐍𝐀 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓!\n✘`{ms}` ms\n HELLO BHAIYA JI HAM  🇲𝐔𝐍𝐍𝐀")
+        await event.edit(f"🇲𝐀𝐗 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓!\n✘`{ms}` ms\n HELLO BHAIYA JI HAM  🇲𝐔𝐍𝐍𝐀")
         
         
 
@@ -41,7 +41,7 @@ async def fuck(e):
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "**Restarting Your ⚔️🇲𝐔𝐍𝐍𝐀 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️...**\nPlease Wait For Few Seconds."
+        text = "**Restarting Your ⚔️🇲𝐀𝐗 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓⚔️...**\nPlease Wait For Few Seconds."
         await e.reply(text)
         try:
             await MK1.disconnect()
