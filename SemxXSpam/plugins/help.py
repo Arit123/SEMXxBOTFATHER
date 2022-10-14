@@ -4,7 +4,7 @@ from SemxXSpam import CMD_HNDLR as hl
     
 HELP_PIC = "https://te.legra.ph/file/842587c353c02e650ae75.mp4"
 
-RyanHelp = "★ 🇲𝐔𝐍𝐍𝐀 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@Manish_rajput_R"
+RyanHelp = "★ 🇲𝐀𝐗 ✘🇸𝐏𝐀𝐌𝐁𝐎𝐓 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@Manish_rajput_R"
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
