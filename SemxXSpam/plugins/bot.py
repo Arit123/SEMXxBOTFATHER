@@ -9,7 +9,7 @@ from telethon import events
 from datetime import datetime
 
     
-@MK1.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
+@MK1.on(events.NewMessage(incoming=True, pattern=r"\%smanish(?: |$)(.*)" % hl))
 @MK2.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
 @MK3.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
 @MK4.on(events.NewMessage(incoming=True, pattern=r"\%smax(?: |$)(.*)" % hl))
